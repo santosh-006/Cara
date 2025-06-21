@@ -612,21 +612,6 @@ body {
     margin: 15px 0 20px 0;
 }
 
-.up {
-    border-radius: 50%;
-    font-size: 18px;
-    padding: 12px 12px;
-    position: fixed;
-    right: 10px;
-    bottom: 10px;
-    transition: transform 1s ease 0s;
-    transform: translateX(-10px);
-    z-index: 999;
-    border: none;
-    background-color: #088178;
-    color: #fff;
-}
-
 
 /*Shop page*/
 
