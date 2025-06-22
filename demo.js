@@ -25,14 +25,6 @@ subimg[3].onclick = function () {
     mainimg.src = subimg[3].src;
 }
 
-var popup=document.getElementById("cart-complete")
-var overlay=document.getElementById("overlay")
-var checkpop=document.getElementById("checkout")
-checkpop.addEventListener("click",function(){
-    popup.style.display="block";
-    overlay.style.display="block";
-})
-
 /*Add to cart in single shopping page*/
 document.addEventListener("DOMContentLoaded", () => {
     const sproductBtn = document.getElementById("sproduct-add-btn");
