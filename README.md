@@ -1,5 +1,4 @@
-# Cara
-E-commerce website
+# Cara - E-commerce website
 Excited to share my latest project — "Cara - Online Clothing Store"
 🔗Live: http://santosh-006.github.io/Cara/
 
