@@ -1,7 +1,7 @@
 # Cara
 E-commerce website
 Excited to share my latest project — "Cara - Online Clothing Store"
-🔗Live: https://lnkd.in/gdTiEvtE
+🔗Live: http://santosh-006.github.io/Cara/
 
 With the rise of e-commerce, I challenged myself to build a fully responsive fashion shopping website from scratch. The goal was to create a clean, user-friendly interface and simulate real-world cart and product interactions — without using any frameworks.
 
